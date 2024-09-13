@@ -3,16 +3,19 @@ owner: FujaTyping # Your GitHub organization or username, where this repository 
 repo: Upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Personal Website
+    url: https://dfujatyping.web.app/
+  - name: Envision Project
+    url: https://sma7tenvision.web.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: x.siraphop.me
-  # baseUrl: /your-repo-name
+  #cname: x.siraphop.me
+  baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Typing Upptime
+  introMessage: Monitor real-time performance, updates, and any service interruptions. We're committed to keeping everything running smoothly.
   navbar:
     - title: Status
       href: /
