@@ -5,6 +5,10 @@ repo: Upptime # The name of this repository
 sites:
   - name: Personal Website
     url: https://dfujatyping.web.app/
+  - name: Shop Website
+    url: https://shopdfujatyping.web.app/
+  - name: Link Portal
+    url: https://portal-azure-rho.vercel.app/
   - name: Envision Project
     url: https://sma7tenvision.web.app/
 
@@ -15,6 +19,7 @@ status-website:
   baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Typing Upptime
+  introTitle: Real-Time Monitoring
   introMessage: Monitor real-time performance, updates, and any service interruptions. We're committed to keeping everything running smoothly.
   navbar:
     - title: Status
