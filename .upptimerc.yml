@@ -20,6 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: x.siraphop.me
   # baseUrl: /Upptime
+  favicon: https://raw.githubusercontent.com/FujaTyping/Upptime/master/assets/upptime-icon.png
   faviconSvg: https://raw.githubusercontent.com/FujaTyping/Upptime/master/assets/upptime-icon.svg
   logoUrl: https://raw.githubusercontent.com/FujaTyping/Upptime/master/assets/upptime-icon.svg
   name: Typing Upptime
