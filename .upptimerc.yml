@@ -17,10 +17,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: x.siraphop.me
   # baseUrl: /Upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/FujaTyping/Upptime/master/assets/upptime-icon.svg
   name: Typing Upptime
   introTitle: Real-Time Monitoring
   introMessage: Monitor real-time performance, updates, and any service interruptions. We're committed to keeping everything running smoothly.
+  i18n:
+    footer: Made with ❤️ by FujaTyping
   navbar:
     - title: Status
       href: /
