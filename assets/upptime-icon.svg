@@ -1,4 +1,11 @@
-<svg width="54" height="54" viewBox="0 0 54 54" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M53.7565 32.9636L33.9514 10.8852L26.8782 3L19.805 10.8852L0 32.9636L7.07316 40.8488L26.8782 18.7703L46.6833 40.8488L53.7565 32.9636Z" fill="#1ABC9C"/>
-  <ellipse cx="26.5659" cy="42.375" rx="7.81344" ry="7.63081" fill="#1ABC9C"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 54" width="54" height="54">
+	<title>image</title>
+	<defs>
+		<image  width="45" height="47" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAvCAMAAABADLOjAAAAAXNSR0IB2cksfwAAAZhQTFRFGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydGbydUhRWXwAAAIh0Uk5TAEQZBCCA3/3hZBBgv//gMJ/vRx5wrTPj/hSRZorMKu2l/E2ek0DbjwUDafvruQqyJVL6Pqm1C7QG9lEP0lmY2BshiS0s6neF59yEbN4yDcukEXtaHE/4SgKdfL2zCC/oOzH5zRLPyG1refdM2l+nrs7diyN4K0ZciJUXoVu+7qPC9Y3zItQYKbC368QAAAKjSURBVHicjdVdSBRRFADgc0JTGy1pNwOtEX/WZnwQKhLBMopIhE1J0AyajUippwgWglJ6DIJ+HnoKDAJ7yCSIjZL+1n4MtlK3XUzHlqTGxFDL2NS20Ozcac0fLndmHu7Mmftx5p5zZ3YR7ByIOGuerWkCsuOnHb2KoOmi1noN4kz8MvGbWDswmrQQJY8JdQbi1OI4dUSkM38sjVcPi/SGmSWpIX1IpGWkun7NZeF4/EbKqKjKXGpexOGg5UrAHpM5IOygooOKaABk40cKEzaGLXanaOI7pV6PH1iQH7TQuDkC4MLuVOY2dYm18pnNK/hamlkJUIhi7XL20pA80V+KISlJfiHUSsZ7asYWfAqwK1KAT8Rv1R4MADhdDxfKEOnyEKUuDY3Y0o7iThp3DOp2tJrbR5u+E+8CV5cEluhK9NPOlOg6V+/HIRnf9f+Pa/po0yuwFXi6DsOGU866lR/PVezy0ViFLVztGWM1SeVD8qwJjky1U/5gEHhazemJv/3Zk9sGwqDEYhTX6i+5uh5vzl9KZelvtnato5rl7VeBq48/GJ9/7emQoxU+uqxum+bqFfv8rCZDCi7+Gg916Fxdg1SThv6svMQOY36yevgx8HTx6Fca59JGQP3kuVHb9m/9BdktXO2JUWp59xUzqOx1f3lOC9JedQNPq3tbafbooC9+V8NoTjM0tPdztTfM2lVxb2FWdSM+CwBPq1XXKXX9247ls1xdn9ZM30jdneUP5utjndQ0LeWiFTb1melrNJ4wWqywqZvu00+M9ihiiZnW/rDGnQz5LDHTroOXqX3u89aYtHLgEp29PTZSk/bkXaD2FQ5ato9pZZL9Yxz2GdaWaWcI4HfjWTuYVtJAX9gpbLKp13pvR8psrZrpuqLGc6dtWYC/YUrEaLgLs2AAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #19bc9d } 
+	</style>
+	<use id="Uptime" href="#img1" x="5" y="3"/>
+	<path id="Shape 1" class="s0" d="m10.3 51c-4.1 0-7.3-3.2-7.3-7.2 0-4.1 3.2-7.3 7.2-7.3 4.1 0 7.3 3.2 7.3 7.3 0 4-3.2 7.2-7.2 7.2z"/>
 </svg>
