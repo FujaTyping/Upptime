@@ -11,18 +11,20 @@ sites:
     url: https://portal-azure-rho.vercel.app/
   - name: Envision Project
     url: https://sma7tenvision.web.app/
+    
+i18n:
+  footer: Made with ❤️ by FujaTyping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: x.siraphop.me
   # baseUrl: /Upptime
+  faviconSvg: https://raw.githubusercontent.com/FujaTyping/Upptime/master/assets/upptime-icon.svg
   logoUrl: https://raw.githubusercontent.com/FujaTyping/Upptime/master/assets/upptime-icon.svg
   name: Typing Upptime
   introTitle: Real-Time Monitoring
   introMessage: Monitor real-time performance, updates, and any service interruptions. We're committed to keeping everything running smoothly.
-  i18n:
-    footer: Made with ❤️ by FujaTyping
   navbar:
     - title: Status
       href: /
