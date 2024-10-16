@@ -4,18 +4,20 @@
     "url": "https://dfujatyping.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/dfujatyping.web.app.ico",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 134,
-    "timeWeek": 126,
-    "timeMonth": 126,
-    "timeYear": 126,
-    "dailyMinutesDown": {}
+    "time": 127,
+    "timeDay": 165,
+    "timeWeek": 133,
+    "timeMonth": 128,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "Link Portal",
