@@ -9,6 +9,8 @@ sites:
     url: https://portal-azure-rho.vercel.app/
   - name: Envision Project
     url: https://sma7tenvision.web.app/
+  - name: Yorwor67Slash5 Project
+    url: https://yorwor67slash5.web.app/
     
 i18n:
   footer: Made with ❤️ by FujaTyping
